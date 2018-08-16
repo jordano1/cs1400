@@ -1,0 +1,7 @@
+C:\Users\Jordan\Desktop\CS1400_lab 25\CS1400_lab 25\bin\Debug\CS1400_lab 25.exe
+C:\Users\Jordan\Desktop\CS1400_lab 25\CS1400_lab 25\bin\Debug\CS1400_lab 25.pdb
+C:\Users\Jordan\Desktop\CS1400_lab 25\CS1400_lab 25\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jordan\Desktop\CS1400_lab 25\CS1400_lab 25\obj\Debug\CS1400_lab 25.exe
+C:\Users\Jordan\Desktop\CS1400_lab 25\CS1400_lab 25\obj\Debug\CS1400_lab 25.pdb
+D:\Dropbox\cs lab\CS1400_lab 25\CS1400_lab 25\obj\Debug\CS1400_lab 25.exe
+D:\Dropbox\cs lab\CS1400_lab 25\CS1400_lab 25\obj\Debug\CS1400_lab 25.pdb

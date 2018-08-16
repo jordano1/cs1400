@@ -1,0 +1,5 @@
+C:\Users\Jordan\documents\visual studio 2010\Projects\CS1400_lab 16\CS1400_lab 16\bin\Debug\CS1400_lab 16.exe
+C:\Users\Jordan\documents\visual studio 2010\Projects\CS1400_lab 16\CS1400_lab 16\bin\Debug\CS1400_lab 16.pdb
+C:\Users\Jordan\documents\visual studio 2010\Projects\CS1400_lab 16\CS1400_lab 16\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jordan\documents\visual studio 2010\Projects\CS1400_lab 16\CS1400_lab 16\obj\Debug\CS1400_lab 16.exe
+C:\Users\Jordan\documents\visual studio 2010\Projects\CS1400_lab 16\CS1400_lab 16\obj\Debug\CS1400_lab 16.pdb

@@ -1,0 +1,12 @@
+C:\Users\Jordan\documents\visual studio 2010\Projects\CS1400_lab 19\CS1400_lab 19\bin\Debug\CS1400_lab 19.exe
+C:\Users\Jordan\documents\visual studio 2010\Projects\CS1400_lab 19\CS1400_lab 19\bin\Debug\CS1400_lab 19.pdb
+C:\Users\Jordan\documents\visual studio 2010\Projects\CS1400_lab 19\CS1400_lab 19\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jordan\documents\visual studio 2010\Projects\CS1400_lab 19\CS1400_lab 19\obj\Debug\CS1400_lab 19.exe
+C:\Users\Jordan\documents\visual studio 2010\Projects\CS1400_lab 19\CS1400_lab 19\obj\Debug\CS1400_lab 19.pdb
+C:\Users\Jordan\Desktop\CS1400_lab 19\CS1400_lab 19\obj\Debug\CS1400_lab 19.exe
+C:\Users\Jordan\Desktop\CS1400_lab 19\CS1400_lab 19\obj\Debug\CS1400_lab 19.pdb
+C:\Users\Jordan\Desktop\CS1400_lab 19\CS1400_lab 19\bin\Debug\CS1400_lab 19.exe
+C:\Users\Jordan\Desktop\CS1400_lab 19\CS1400_lab 19\bin\Debug\CS1400_lab 19.pdb
+C:\Users\Jordan\Desktop\CS1400_lab 19\CS1400_lab 19\obj\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\cs lab\CS1400_lab 19\CS1400_lab 19\obj\Debug\CS1400_lab 19.exe
+D:\Dropbox\cs lab\CS1400_lab 19\CS1400_lab 19\obj\Debug\CS1400_lab 19.pdb

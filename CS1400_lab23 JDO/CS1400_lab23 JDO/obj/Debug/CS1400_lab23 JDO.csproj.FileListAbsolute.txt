@@ -1,0 +1,4 @@
+C:\Users\Jordan\Dropbox\cs lab\CS1400_lab23 JDO\CS1400_lab23 JDO\bin\Debug\CS1400_lab23 JDO.exe
+C:\Users\Jordan\Dropbox\cs lab\CS1400_lab23 JDO\CS1400_lab23 JDO\bin\Debug\CS1400_lab23 JDO.pdb
+C:\Users\Jordan\Dropbox\cs lab\CS1400_lab23 JDO\CS1400_lab23 JDO\obj\Debug\CS1400_lab23 JDO.exe
+C:\Users\Jordan\Dropbox\cs lab\CS1400_lab23 JDO\CS1400_lab23 JDO\obj\Debug\CS1400_lab23 JDO.pdb

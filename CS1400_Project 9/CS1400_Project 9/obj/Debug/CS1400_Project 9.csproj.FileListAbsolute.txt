@@ -1,0 +1,11 @@
+C:\Dropbox\cs lab\CS1400_Project 9\CS1400_Project 9\bin\Debug\CS1400_Project 9.exe
+C:\Dropbox\cs lab\CS1400_Project 9\CS1400_Project 9\bin\Debug\CS1400_Project 9.pdb
+C:\Dropbox\cs lab\CS1400_Project 9\CS1400_Project 9\obj\Debug\CS1400_Project 9.exe
+C:\Dropbox\cs lab\CS1400_Project 9\CS1400_Project 9\obj\Debug\CS1400_Project 9.pdb
+C:\Users\jordan\Dropbox\cs lab\CS1400_Project 9\CS1400_Project 9\obj\Debug\CS1400_Project 9.exe
+C:\Users\jordan\Dropbox\cs lab\CS1400_Project 9\CS1400_Project 9\obj\Debug\CS1400_Project 9.pdb
+D:\Dropbox\cs lab\CS1400_Project 9\CS1400_Project 9\obj\Debug\CS1400_Project 9.exe
+D:\Dropbox\cs lab\CS1400_Project 9\CS1400_Project 9\obj\Debug\CS1400_Project 9.pdb
+C:\Users\User\Dropbox\cs lab\CS1400_Project 9\CS1400_Project 9\bin\Debug\CS1400_Project 9.exe.config
+C:\Users\User\Dropbox\cs lab\CS1400_Project 9\CS1400_Project 9\obj\Debug\CS1400_Project 9.exe
+C:\Users\User\Dropbox\cs lab\CS1400_Project 9\CS1400_Project 9\obj\Debug\CS1400_Project 9.pdb
